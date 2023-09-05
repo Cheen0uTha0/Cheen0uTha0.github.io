@@ -1,1 +1,59 @@
+body{
+  background-color:steelblue;
+  padding-left:20px;
+  font-family: arial,verdana,tahoma;
+  margin: 50px 50px;
+}
+  
+.three{ border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  
+}
+ 
+h1{
+  color: floralwhite;
+  font-size: 45px;
+  }
 
+  h4 {
+  color: floralwhite;
+    font-size:25px;
+    }
+
+h5{
+  font-size:20px;
+}
+
+li{
+  font-size:14px;
+}
+
+.two {
+  color:floralwhite;
+}
+
+li{
+  color:floralwhite;
+}
+
+.four{
+  color:floralwhite;
+  }
+
+.five{
+  color:floralwhite;
+  }
+
+.six{
+  color:floralwhite;
+  }
+
+.seven{
+  color:floralwhite;
+  }
+.eight{
+  color:floralwhite;
+  }
+.nine{
+  font-size:20px;color:floralwhite;
+}
