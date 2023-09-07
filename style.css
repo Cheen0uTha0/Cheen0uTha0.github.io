@@ -1,4 +1,8 @@
 body{
+  background-image:url("https://i.ytimg.com/vi/s-2PcjQ_Ejw/maxresdefault.jpg");
+  background-position:50% 1%;
+  background-repeat: no-repeat;
+  background-size: 80% 7%;
   background-color:steelblue;
   padding-left:20px;
   font-family: arial,verdana,tahoma;
@@ -7,7 +11,6 @@ body{
   
 .three{ border-top: 2px solid black;
   border-bottom: 2px solid black;
-  
 }
  
 h1{
