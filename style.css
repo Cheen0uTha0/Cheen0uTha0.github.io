@@ -1,10 +1,10 @@
 body{
-  background-image:url("https://i.ytimg.com/vi/s-2PcjQ_Ejw/maxresdefault.jpg");
-  background-position:50% 1%;
+  background-image: url("https://i.ytimg.com/vi/s-2PcjQ_Ejw/maxresdefault.jpg");
+  background-position: 50% 1%;
   background-repeat: no-repeat;
   background-size: 80% 7%;
-  background-color:steelblue;
-  padding-left:20px;
+  background-color: steelblue;
+  padding-left: 20px;
   font-family: arial,verdana,tahoma;
   margin: 50px 50px;
 }
@@ -20,43 +20,43 @@ h1{
 
   h4 {
   color: floralwhite;
-    font-size:25px;
+    font-size: 25px;
     }
 
 h5{
-  font-size:20px;
+  font-size: 20px;
 }
 
 li{
-  font-size:14px;
+  font-size: 14px;
 }
 
 .two {
-  color:floralwhite;
+  color: floralwhite;
 }
 
 li{
-  color:floralwhite;
+  color: floralwhite;
 }
 
 .four{
-  color:floralwhite;
+  color: floralwhite;
   }
 
 .five{
-  color:floralwhite;
+  color: floralwhite;
   }
 
 .six{
-  color:floralwhite;
+  color: floralwhite;
   }
 
 .seven{
-  color:floralwhite;
+  color: floralwhite;
   }
 .eight{
-  color:floralwhite;
+  color: floralwhite;
   }
 .nine{
-  font-size:20px;color:floralwhite;
+  font-size: 20px; color:floralwhite;
 }
